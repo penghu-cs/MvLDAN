@@ -13,9 +13,6 @@ In many real-world applications, an object can be described from multiple views 
 The mean verification rate and standard error on the nMSAD dataset.
 <img src="nMSAD.png" width="700"/>
 
-The mean verification rate and standard error on the nMSAD dataset.
-<img src="nMSAD.png" width="700"/>
-
 Performance comparison in terms of mean MAP@R scores and standard error (percent) on the NUS-WIDE
 dataset.
 <img src="NUSWIDE.png" width="700"/>
