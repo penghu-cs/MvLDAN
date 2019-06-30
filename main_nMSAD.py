@@ -24,7 +24,6 @@ import scipy.io as sio
 import train
 epoch_num = 20
 
-root_path = 'My_Test_Dir'
 config.feature_path = 'Representations/nMSAD_CNN'
 output_size = 20
 batch_size = 500
