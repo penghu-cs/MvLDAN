@@ -11,11 +11,11 @@ In many real-world applications, an object can be described from multiple views 
 ![Result](pascal_sentence_results.png)-->
 ## Result
 The mean verification rate and standard error on the nMSAD dataset.
-<img src="nMSAD.png" width="700"/>
+<img src="nMSAD.png" width="800"/>
 
 Performance comparison in terms of mean MAP@R scores and standard error (percent) on the NUS-WIDE
 dataset.
-<img src="NUSWIDE.png" width="700"/>
+<img src="NUSWIDE.png" width="800"/>
 
 ## Citing MvLDAN
 If you find MvLDAN useful in your research, please consider citing:
