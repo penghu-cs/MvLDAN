@@ -24,12 +24,12 @@ If you find MvLDAN useful in your research, please consider citing:
   author={Hu, Peng and Peng, Dezhong and Sang, Yongsheng and Xiang, Yong}, 
   journal={IEEE Transactions on Image Processing}, 
   title={Multi-view Linear Discriminant Analysis Network}, 
-  year={2019}, 
-  volume={}, 
-  number={}, 
-  pages={1-14}, 
+  year={2019},
+  volume={28},
+  number={11},
+  pages={5352-5365},
   doi={10.1109/TIP.2019.2913511}, 
   ISSN={1057-7149}, 
-  month={},
+  month={Nov},
 }
 ```
